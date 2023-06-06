@@ -1,0 +1,10 @@
+.button {
+    -fx-background-color: red;
+}
+
+.buttonActive:pressed {
+    -fx-background-color: #898989!important;
+}
+.buttonActive {
+    -fx-border-width: 2!important;
+}
